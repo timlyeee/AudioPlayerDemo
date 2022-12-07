@@ -1,8 +1,8 @@
 {
+  "creator": {
+    "version": "3.7.0"
+  },
   "name": "AudioPlayerDemo",
   "uuid": "c64e62d4-1f81-4b7c-8d0f-ded3cf1c5268",
-  "version": "3.6.2",
-  "creator": {
-    "version": "3.6.2"
-  }
+  "version": "3.7.0"
 }

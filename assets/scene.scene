@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "",
+    "_name": "scene",
     "_objFlags": 0,
     "_native": "",
     "scene": {
@@ -54,6 +54,7 @@
     "_globals": {
       "__id__": 165
     },
+    "_reflectionProbeId": 0,
     "_id": "611dc82b-269d-4f8f-a54c-dd54524f8e23"
   },
   {
@@ -206,7 +207,7 @@
     "_priority": 1073741824,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 320,
+    "_orthoHeight": 344.7887323943662,
     "_near": 0,
     "_far": 2000,
     "_color": {
@@ -2646,7 +2647,18 @@
         "__id__": 100
       }
     ],
-    "removedComponents": []
+    "removedComponents": [],
+    "ids": [
+      "60Wa1DJaxL07J00yG162V5",
+      "7flWBWehFPib1gI+dupBDC",
+      "3832WL6/pI1raQJZXaeG2W",
+      "ddu844hxVOXpeuijJtbnN2",
+      "f0xZsLVyFFdbO9Vq5di7gb",
+      "ebm91dzk9BcLyKVFkvLv0W",
+      "82s8UC6vdPPphWScRxkbQh",
+      "66kg+4B2ZHrItBLMIbuGkx",
+      "64bzP/nGxNaLKv3NnZFm3/"
+    ]
   },
   {
     "__type__": "cc.MountedComponentsInfo",
@@ -5290,6 +5302,9 @@
   {
     "__type__": "cc.LightProbeInfo",
     "_enabled": false,
+    "_giScale": 1,
+    "_giSamples": 1024,
+    "_bounces": 2,
     "_reduceRinging": 0,
     "_showProbe": true,
     "_showWireframe": true,
